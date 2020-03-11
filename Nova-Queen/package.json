@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "a bot that will allow you to destroy discord servers",
   "main": "bot.js",
+  "engines": {
+    "node": "10.15.3"
+  },
   "scripts": {
     "start": "node index.js"
   },
@@ -20,3 +23,10 @@
   },
   "homepage": "https://github.com/Barsik008/PossumBot#readme"
 }
+  "name": "myapp",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.13.0"
+  }
+
